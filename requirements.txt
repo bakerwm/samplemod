@@ -1,2 +1,1 @@
-nose
-sphinx
+sphinx>=1.6.6
